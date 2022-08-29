@@ -1,0 +1,7 @@
+id=greenify_app
+name=Greenify App
+version=v4.7.5
+versionCode=1
+author=@blessingmwiti
+description=Installs greenify as system app.
+support=github @blessingmwiti
